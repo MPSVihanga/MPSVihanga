@@ -1,3 +1,4 @@
+<img url="https://www.springboard.com/blog/wp-content/uploads/2020/07/how-do-you-become-a-cloud-engineer.jpg" />
 <h1 align="center">Hi 👋, I'm MPS Vihanga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
