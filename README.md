@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MPS Vihanga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Layered Architecture](https://github.com/MPSVihanga/Layered-Architecture.git)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
